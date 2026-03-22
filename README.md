@@ -7,7 +7,7 @@
 
 ## System Overview
 
-**Bitvault** is a high-security, local-offline password manager designed for those who prioritize data sovereignty and cryptographic excellence. Built with a focus on **AES-256** confidentiality and **HMAC** integrity, Bitvault ensures your sensitive information remains yours and yours alone.
+**Bitvault** is a high security, local offline password manager designed for those who prioritize data sovereignty and cryptographic excellence. Built with a focus on **AES-256** confidentiality and **HMAC** integrity, Bitvault ensures your sensitive information remains yours and yours alone.
 
 ### Cryptographic Foundation
 
